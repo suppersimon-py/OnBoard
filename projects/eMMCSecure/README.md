@@ -1,5 +1,5 @@
 ---
-name: "FIRST LAST"
+name: "Simon Pepin"
 slack_handle: "@suppersimon"
 github_handle: "@suppersimon-py"
 tutorial: # Link to the tutorial if you used one
